@@ -5,7 +5,4 @@ I created this GitHub repository so I could have a central place to put any
 Xcode based projects, Swift, Objective-C, etc. in a common location I can
 access from any of my existing and future Mac OS X machines.
 
-I updated ~/log/shell/scripts/github to include "xcode" along with "breyer"
-and "log" repository updates.
-
 
